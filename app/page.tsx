@@ -7,10 +7,10 @@ const projects = [
     mark: "▰",
   },
   {
-    number: "02", title: "Luke’s Learning Trail", chinese: "每日学习小径", tone: "gold", status: "Growing weekly",
+    number: "02", title: "Learning Trail", chinese: "每日学习小径", tone: "gold", status: "Growing weekly",
     idea: "A gentle guided-study system that adapts STEM, art, resilience, Chinese, and poetry to one child.",
     note: "Adaptive learning · Family tool · Local-first",
-    live: "https://lukes-learning-trail.yokattta.chatgpt.site", repo: "https://github.com/yokattta/lukes-learning-trail",
+    live: "https://learning-trail.yokattta.chatgpt.site", repo: "https://github.com/yokattta/learning-trail",
     mark: "△",
   },
   {
