@@ -1,0 +1,10 @@
+THIRD-PARTY NOTICE
+
+Parts of this repository were generated from the `site-creator-vinext-starter`
+template — build configuration, the Cloudflare worker entry point, the auth
+header helper, and the scaffolding they depend on.
+
+That template declares no licence. The author makes no claim over it, and the
+MIT grant in LICENSE extends only to the author's own contributions on top of
+it. If you intend to reuse this repository wholesale, resolve the template's
+licensing with its publisher first.
